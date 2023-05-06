@@ -42,7 +42,9 @@ class arqui(commands.Cog):
 
 `Versión:` **v0.99**
 
-`Soporte:` [Soporte de Arqui](https://discord.gg/3g58BYPWfB)
+`Soporte:` [Soporte de Arqui](https://discord.gg/Gs5FwKHTCW)
+
+`Source Code (Open Source):` [Código Fuente](https://github.com/DevCheckOG/Arqui-Bot)
  
 `Libreria:` **NextCord**            
             
@@ -63,4 +65,5 @@ class arqui(commands.Cog):
 def setup(bot : commands.Bot):
     
     bot.add_cog(arqui(bot))                    
+                          
            
